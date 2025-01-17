@@ -1,5 +1,6 @@
 package Almacenamiento;
 
+
 public class Cd extends Disco {
     public Cd(String brand, double capacidad) {
         super(brand, capacidad, "CD");

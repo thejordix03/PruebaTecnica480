@@ -1,5 +1,6 @@
 package Almacenamiento;
 
+
 public class BlueRay extends Disco {
     public BlueRay(String brand, double capacidad) {
         super(brand, capacidad, "BluRay");

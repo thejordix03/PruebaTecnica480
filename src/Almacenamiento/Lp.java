@@ -1,5 +1,6 @@
 package Almacenamiento;
 
+
 public class Lp extends Disco {
 
     public Lp(String brand, double capacidad) {

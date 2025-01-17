@@ -1,5 +1,6 @@
 package Almacenamiento;
 
+
 public class MainDiscos {
     public static void main(String[] args) {
         Cd cd = new Cd("Sony", 0.7);

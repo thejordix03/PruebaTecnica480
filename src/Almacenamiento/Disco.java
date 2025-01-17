@@ -1,5 +1,6 @@
 package Almacenamiento;
 
+
 public abstract class Disco {
     protected String brand;
     protected double capacidad;

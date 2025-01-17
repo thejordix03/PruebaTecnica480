@@ -1,5 +1,6 @@
 package Almacenamiento;
 
+
 public class DiscoDuro extends Disco {
     public DiscoDuro(String brand, double capacidad) {
         super(brand, capacidad, "Disco Duro");
